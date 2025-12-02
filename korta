@@ -20,7 +20,7 @@
         <tr>
           <!-- PH-BILD (vänster) -->
           <td width="200" style="padding:0; margin:0;">
-            <a href="LINK_PH" target="_blank" style="text-decoration:none; display:block;">
+            <a href="https://www.insu.se/yrkeshogskola/projektering-av-hogspanningsanlaggningar-yrkeshogskola-distans/" target="_blank" style="text-decoration:none; display:block;">
               <img src="BASE_URL/PH-BILD.png"
                    width="200"
                    alt="Projektering av högspänningsanläggningar"
@@ -30,7 +30,7 @@
 
           <!-- INS-BILD (mitten) -->
           <td width="200" style="padding:0; margin:0;">
-            <a href="LINK_INS" target="_blank" style="text-decoration:none; display:block;">
+            <a href="https://www.insu.se/yrkeshogskola/installationssamordnare/" target="_blank" style="text-decoration:none; display:block;">
               <img src="BASE_URL/INS-BILD.png"
                    width="200"
                    alt="Installationssamordning"
@@ -40,7 +40,7 @@
 
           <!-- VENTI-BILD (höger) -->
           <td width="200" style="padding:0; margin:0;">
-            <a href="LINK_VENTI" target="_blank" style="text-decoration:none; display:block;">
+            <a href="https://www.insu.se/yrkeshogskola/ventilationsinjusterare-yrkeshogskola-distans/" target="_blank" style="text-decoration:none; display:block;">
               <img src="BASE_URL/VENTI-BILD.png"
                    width="200"
                    alt="Ventilationsinjustering"
